@@ -9,8 +9,7 @@
 ## النشر
 منشور عبر **GitHub Pages** من فرع `main` / المجلد الجذر (root).
 
-الرابط بعد التفعيل:
-`https://<username>.github.io/sawary-dashboard/`
+الرابط: https://karimelgammal0.github.io/Sawary-seifco/
 
 ## التحديث
 استبدل `index.html` بالنسخة الجديدة ثم:
